@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://d33wubrfki0l68.cloudfront.net/69e55f968a6f44613384615c6a78b881bfe28bd6/42cd3/_common-resources/images/flower.svg" alt="logo" width="400" height="auto" border=3 />
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*oKUxhmFGUnUa_mbrolvL_A.png" alt="logo" width="800" height="auto" border=3 />
   <h1>:pushpin::star2: Automation With Terraform</h1>
   
   <p>
@@ -70,7 +70,7 @@
 ## :star2: About The Project [🔝](#pushpinstar2-automation-with-terraform)
 ### :camera: Screenshots
 <div align="center"> 
-  <img src="https://dezyre.gumlet.io/images/blog/kubernetes-projects/Kubernetes_Projects.png?w=330&dpr=2.6" alt="screenshot" width="400" height="auto"/>
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*aJPzBIUo4tipOo8707GFsw.png" alt="screenshot" width="800" height="auto"/>
   <div>Welcome to the DevOps with Terraform repository! This repository contains a collection of resources, scripts, and best practices for leveraging Terraform to implement DevOps methodologies and automate infrastructure management.</div>
 </div>
 
@@ -116,5 +116,6 @@ Projects Link: [![https://img.shields.io/badge/GitHub-100000?style=for-the-badge
 ## :gem: Acknowledgments [🔝](#pushpinstar2-automation-with-terraform)
 All useful resources and libraries that I have used in this projects
  - [Python Setup](https://www.python.org/downloads/)
+ - [Terraform Doc Overview](https://developer.hashicorp.com/terraform/docs)
  - [StackOver flow python solution](https://stackoverflow.com/)
 
